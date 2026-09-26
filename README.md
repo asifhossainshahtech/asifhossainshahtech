@@ -3,14 +3,22 @@
 
 Email Me 👉 ✉️ **asifhossainshah06@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** ASIF Tech
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-🔭 **I’m currently working on:** AI-powered projects, smart automation systems, and innovative software solutions.
+
+🌱 **I’m currently learning:** Artificial Intelligence, Machine Learning, Python, Java, Web Development, and Data Structures & Algorithms.
+
+👯 **I’m looking to collaborate on:** AI/ML projects, open-source software, innovative hackathon ideas, research projects, and real-world tech solutions.
+
+🤔 **I’m looking for help with:** Advanced AI research, Machine Learning projects, system development, and turning innovative ideas into real-world products.
+
+💬 **Ask me about:** AI, Python, Java, Coding, Research, Web Development, Hackathons, and Tech Projects.
+
+📫 **How to reach me:** [asifhossainshah8@gmail.com](mailto:asifhossainshah8@gmail.com)
+
+😄 **Pronouns:** ASIF Tech
+
+⚡ **Fun fact:** I Love Tech, I Build with Tech, and Tech Loves Me! 🚀💻🤖
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/asif-hossain-shah) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Asif Hossain Shah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifhossainshah06@gmail.com) 
 
